@@ -1,9 +1,10 @@
-# Project Proposal
+# Project Proposal: CARE AND BLOOM
 
 ## Business Case
 
 ### Problem statement
-TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
+TODO: Health issues and Disability in Bristol census 2021 by ward. 
+A wellbeing and scheduling app and local support app for unpaid carers, disabled people, and people who struggle with their mental health. The app is meant to help unpaid carers balance caring responsibilities with work, education, relationships and leisure and act as a support finder and a personalised daily activity planner for people who have mental health conditions and are disabled
 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.

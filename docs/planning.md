@@ -21,4 +21,5 @@ There are several potential benefits for this app which include; Improving the U
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
 
-![Insert your Context Diagram Here](images/context.png)
+![Insert your Context Diagram Here](images/context.png) <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccc890e0-1d3b-4f39-b8e7-ed1f7d20554e" />
+

@@ -19,19 +19,19 @@ This option involves making zero changes and making use of the existing resource
 
 Advantages: 
 
-No development or maintenance costs. 
+1. No development or maintenance costs. 
 
-Users can keep using familiar applications and resources. 
+2. Users can keep using familiar applications and resources. 
 
-No additional software training is needed. 
+3. No additional software training is needed. 
 
 Disadvantages: 
 
-Information remains spread across multiple platforms. 
+1. Information remains spread across multiple platforms. 
 
-Users must organise and personalise their own daily activities and routines. 
+2. Users must organise and personalise their own daily activities and routines. 
 
-Finding suitable local support services may take too much time. 
+3. Finding suitable local support services may take too much time. 
 
  
 
@@ -41,19 +41,19 @@ This option would require the use of existing calendar, scheduling and wellbeing
 
 Advantages: 
 
-Most existing apps may already provide scheduling, reminders, and mental wellbeing tracking features. 
+1. Most existing apps may already provide scheduling, reminders, and mental wellbeing tracking features. 
 
-Cost less for development compared to when building a new application. 
+2. Cost less for development compared to when building a new application. 
 
-Users can find benefits from established software and existing functionality. 
+3. Users can find benefits from established software and existing functionality. 
 
 Disadvantages: 
 
-Users may need to switch between different applications.  
+1. Users may need to switch between different applications.  
 
-Information on some local support services may not be accessed easily and may also be incorrect. 
+2. Information on some local support services may not be accessed easily and may also be incorrect. 
 
-Users may find it hard to manage all their tasks and activities across different platforms. 
+3. Users may find it hard to manage all their tasks and activities across different platforms. 
 
 Option 3: Develop a local support service assigned repository 
 
@@ -63,21 +63,21 @@ This option would involve developing a centered repository where users can easil
 
 Advantages: 
 
-Makes local support services easier to find and access. 
+1. Makes local support services easier to find and access. 
 
-Provides a centralised location for important support information 
+2. Provides a centralised location for important support information 
 
-May help unpaid carers, people with mental health conditions and people with disabilities find assistance. 
+3. May help unpaid carers, people with mental health conditions and people with disabilities find assistance. 
 
  
 
 Disadvantages: 
 
-It does not provide the features needed for organising day-to-day activities and tasks. 
+1. It does not provide the features needed for organising day-to-day activities and tasks. 
 
-Users would still require a separate app for scheduling and wellbeing. 
+2. Users would still require a separate app for scheduling and wellbeing. 
 
-Information about local support services would need regular updates to remain correct. 
+3. Information about local support services would need regular updates to remain correct. 
 
  
 
@@ -87,23 +87,23 @@ This option would involve developing a combined application that would bring tog
 
 Advantages: 
 
-Provides a lot of useful features in one application. 
+1. Provides a lot of useful features in one application. 
 
-Reduces the need for users having to switch between multiple applications, 
+2. Reduces the need for users having to switch between multiple applications, 
 
-Allows users to organise their daily activities, responsibilities and access local support on one platform. 
+3. Allows users to organise their daily activities, responsibilities and access local support on one platform. 
 
-Provides an easier and more accessible experience for users. 
+4. Provides an easier and more accessible experience for users. 
 
  
 
 Disadvantages: 
 
-Will require a lot of time to build, develop, and may need more resources. 
+1. Will require a lot of time to build, develop, and may need more resources. 
 
-Requires a lot of testing, making sure that all the features work accurately. 
+2. Requires a lot of testing, making sure that all the features work accurately. 
 
-Ongoing maintenance will be needed to make sure information about local support services is accurate, and the application is kept useful for users. 
+3. Ongoing maintenance will be needed to make sure information about local support services is accurate, and the application is kept useful for users. 
 
  
 

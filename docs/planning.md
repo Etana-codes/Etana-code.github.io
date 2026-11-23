@@ -111,7 +111,53 @@ Preferred option
 
 Option 4 has been chosen to be the preferred option because it offers the most extensive solution to all the problems identified. By combining activity planning, wellbeing and mood tracking and access to various local support services. Care 4 U focuses on making day-to-day organisation and access to getting assistance easier for the users. Although this option would require a lot of development and continuous maintenance, the benefits of having these features in one application would make it a better option. 
 ### Expected Risks
- Inaccurate or outdated service information where users may contact services that may have closed or moved locations. Users may have to enter sensitive information about their health or their care roles and responsibility, so privacy and data protection is needed. Users may run into technical difficulties where it may be hard to access their tasks, use filters, or some data may be lost. Some users may find it difficult to use, and some may find that it isn't relevant to what they need. People with visual, movement, and cognitive disabilities and impairments might not be able to use the app
+ Expected risks 
+
+There are several risks that have been thought about during the planning and development process of Care 4 U. These risks may affect the application's reliability, security, and accessibility. 
+
+Risk 
+
+Potential impact 
+
+Possible mitigation 
+
+Inaccurate or outdated local service information 
+
+Users may try to get information from organisations that have closed, moved away, or are no longer providing services. 
+
+Regularly review and maintenance of local support listings to keep accurate information. 
+
+Data protection and privacy issues 
+
+Users may give out sensitive information in relation to their health and wellbeing, caring roles which may result in potential privacy issues. 
+
+Enable secure authentication, appropriate access controls and clear privacy settings. 
+
+Technical difficulties 
+
+Users may have problems finding on using the application, accessing features or completing activities. 
+
+Conduct continuous testing and provide a simple, user friendly window. 
+
+Data loss 
+
+Users may lose essential information like plans, task reminders, or wellbeing records. 
+
+Create reliable data storage and reasonable backup procedures. 
+
+Accessibility barriers  
+
+Users with visual, physical, and cognitive impairments may find it difficult to use some features of the application. 
+
+Design the application to with user accessibility, which includes read aloud texts, easy understanding, good colour grading, and assistive technology support. 
+
+Irrelevant support information 
+
+Users may find that local service shown do not meet up with their individual needs or situations. 
+
+Provide search and filtering options that will allow users to find relevant services to suit their needs and location. 
+
+
 
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.

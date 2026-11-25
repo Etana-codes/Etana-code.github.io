@@ -11,38 +11,14 @@
 | US03 | As a user, I want to add in tasks and deadlines so that I can keep track essential activities. 
 | US04 | As a user, I want to set reminders so that I don't forget crucial  
 | US05 | As a person going through mental health difficulties, I want to log my mood and wellbeing so I can track how I feel. 
-
-US06 
-
-As a user, I want to look for local support services so that I can find the right help around my area. 
-
-US07 
-
-As a user, I want to filter support services so I can find the best one suitable for my needs. 
-
-US08 
-
-As a user, I want to save my favourite services so that I can get access to support and resources when needed again. 
-
-US09 
-
-As a user, I want to look at the Open Bristol data so that I can gain more knowledge on the support and resources that are available to me in different areas. 
-
-US10 
-
-As a user, I want to manage my privacy settings so that I can be aware of how my personal data is being used. 
-
-US11 
-
-As a user I want to share my activity plan with someone from my family so they can get information about my needs and support me. 
-
-US12 
-
-As an administrator, I want to update local support services and their listings so that users get proper information. 
-
-US13 
-
-As an administrator, I want to update the open Bristol data so that the data available can remain useful to the users. 
+| US06 | As a user, I want to look for local support services so that I can find the right help around my area. 
+| US07 | As a user, I want to filter support services so I can find the best one suitable for my needs. 
+| US08 | As a user, I want to save my favourite services so that I can get access to support and resources when needed again. 
+| US09 | As a user, I want to look at the Open Bristol data so that I can gain more knowledge on the support and resources that are available to me in different areas. 
+| US10 | As a user, I want to manage my privacy settings so that I can be aware of how my personal data is being used. 
+| US11 | As a user I want to share my activity plan with someone from my family so they can get information about my needs and support me. 
+| US12 | As an administrator, I want to update local support services and their listings so that users get proper information. 
+| US13 | As an administrator, I want to update the open Bristol data so that the data available can remain useful to the users. 
 
  
 

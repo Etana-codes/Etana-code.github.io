@@ -25,7 +25,16 @@
  
 
 ### Actors
-TODO: List and describe the actors/users for this product.
+
+| Actor | Description 
+|---|---|
+| Unpaid carer | People who provide unpaid care for a family member or for someone else. They can create daily activities, tasks, and find local support services. 
+| People with disabilities | People who may use the care 4 U app to track their mod, wellbeing, plans activities, and access their local support system. 
+| People with mental health difficulties | People who may make use of this application to check their wellbeing, manage their schedules, and find useful support groups. 
+| User | The main application user who can register, log in, and access the features available on the app. 
+| Admin | The person who is responsible for managing and maintain the application's data including local support services, and Open data Bristol. 
+
+ 
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
